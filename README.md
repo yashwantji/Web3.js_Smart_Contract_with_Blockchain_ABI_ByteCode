@@ -11,7 +11,7 @@ Additionally, the repository shows how to use Node.js core modules like fs for f
 
 Overall, this project provides a hands-on learning experience covering the complete flow from smart contract compilation to deployment and interaction, making it ideal for students and developers starting their journey in Web3, Ethereum, and smart contract development.
 
-🔧 Technologies Used
+Technologies Used
 
 Web3.js
 
